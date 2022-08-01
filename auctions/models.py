@@ -1,7 +1,6 @@
 from cProfile import label
 from pyexpat import model
 from time import timezone
-from tkinter import CASCADE
 from unicodedata import category
 from django.contrib.auth.models import AbstractUser
 from django.db import models
